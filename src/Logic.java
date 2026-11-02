@@ -63,8 +63,8 @@ public class Logic implements ActionListener, KeyListener {
 
         pipes = new ArrayList<Pipe>();
 
-        // Timer untuk spawn pipa setiap 1.5 detik
-        pipesCooldown = new Timer(1500, new ActionListener() {
+        // Timer untuk spawn pipa (diberi jeda 2 detik agar tidak terlalu rapat)
+        pipesCooldown = new Timer(2000, new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent actionEvent) {
                 placePipes();
