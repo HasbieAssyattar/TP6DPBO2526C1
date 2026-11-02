@@ -20,7 +20,7 @@ Saya <strong>Muhamad Hasbie Assyattar</strong> dengan <strong>NIM 2508288</stron
     - Menyimpan data pipa rintangan (posisi, ukuran, gambar, kecepatan gerak, dan status lewat).
 
 ## Struktur Desain
-'''
+```
 TP 6
 │   dokum.mp4
 │   README.md
@@ -49,10 +49,13 @@ TP 6
             bird.png
             lowerPipe.png
             upperPipe.png
-'''
+```
 
 ## Anuan Program
 nanti pas awal dirun bakal ada tampilan homescreen simple nama terus play dan exit... terus kalau teken exit jelas bakal keluar dna jika tekan play bakal mulai gamenya... untuk mekanismenya itu teken spasi biar burungnya bisa terbang jikalau nambrak atau keluar layar bakal mati dan ada layar dan peruntah untuk R jikalau mau respoasn
 
 ## Dokumentasi
-![Video](dokum.mp4) 
+
+
+https://github.com/user-attachments/assets/5d998744-308c-4469-843b-909caa3bd2d9
+
