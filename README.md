@@ -55,7 +55,5 @@ TP 6
 nanti pas awal dirun bakal ada tampilan homescreen simple nama terus play dan exit... terus kalau teken exit jelas bakal keluar dna jika tekan play bakal mulai gamenya... untuk mekanismenya itu teken spasi biar burungnya bisa terbang jikalau nambrak atau keluar layar bakal mati dan ada layar dan peruntah untuk R jikalau mau respoasn
 
 ## Dokumentasi
-
-
-https://github.com/user-attachments/assets/5d998744-308c-4469-843b-909caa3bd2d9
+https://github.com/user-attachments/assets/cf9694dd-a8a4-40cd-9b72-cef0d291381a
 
